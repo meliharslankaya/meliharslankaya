@@ -8,13 +8,13 @@
   
 ## Links 🔗
   
-<a href="https://www.instagram.com/">
+<a href="https://www.instagram.com/meliharslankaya/">
   <img align="left" alt="Melih's Instagram" width="32px" src="Assets/instagram.png" />
   </a>
 <a href="https://twitter.com/">
   <img align="left" alt="Melih Arslankaya | Twitter" width="32px" src="Assets/twitter.png" />
 </a>
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/melih-arslankaya/">
   <img align="left" alt="Melih's LinkedIN" width="32px" src="Assets/linkedin.png" />
 </a> <br><br>
 
