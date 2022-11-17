@@ -1,5 +1,6 @@
 <h1 align="center">
   <img src="https://github.com/meliharslankaya/meliharslankaya/blob/main/Melih%20Arslankaya.svg" alt="Melih Arslankaya" />
+  <img src="https://github.com/meliharslankaya/meliharslankaya/blob/main/Software%20Developer.svg" alt="Software Developer" />
 </h1>
 
 
