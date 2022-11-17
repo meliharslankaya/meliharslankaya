@@ -36,7 +36,7 @@
   <img align="left" alt="Python" width="32px" src="Assets/python.png" />
 </a>
 <a href="#">
-  <img align="left" alt="C#" width="32px" src="Assets/c#.png" />
+  <img align="left" alt="C#" width="32px" src="Assets/csharp.png" />
 </a> <br> <br>
 
 ## Learnings
