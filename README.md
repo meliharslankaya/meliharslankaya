@@ -19,4 +19,7 @@
  </a> <br><br>
   
  ## Languages and Tools 
-  
+ 
+ <a href="#">
+   <img align="left" alt="HTML" width="32px" src="Assets/html.png" />
+ </a>
