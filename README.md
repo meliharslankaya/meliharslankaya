@@ -4,21 +4,19 @@
 </h1>
   
   
- ## Hello👋 I'm a software developer and also a research and development engineer. I work on web development, artificial intelligence and image processing.
-  
-  
- ## Links 
-  
- <a href="https://www.instagram.com/abhisheknaiidu/">
-   <img align="left" alt="Melih's Instagram" width="22px" src="Assets/instagram.png" />
+ ### Hello👋 I'm a software developer and also a research and development engineer. I work on web development, artificial intelligence and image processing.
+ 
+ ## Links 🔗
+ 
+ <a href="https://www.instagram.com/">
+   <img align="left" alt="Melih's Instagram" width="32px" src="Assets/instagram.png" />
  </a>
-
- <a href="https://twitter.com/abhisheknaiidu">
-   <img align="left" alt="Melih Arslankaya | Twitter" width="22px" src="Assets/twitter.png" />
+ <a href="https://twitter.com/">
+   <img align="left" alt="Melih Arslankaya | Twitter" width="32px" src="Assets/twitter.png" />
  </a>
- <a href="https://www.linkedin.com/in/abhisheknaiidu/">
-   <img align="left" alt="Melih's LinkedIN" width="22px" src="Assets/linkedin.png" />
- </a>
+ <a href="https://www.linkedin.com/">
+   <img align="left" alt="Melih's LinkedIN" width="32px" src="Assets/linkedin.png" />
+ </a> <br><br>
   
- ## Languages and Tools
+ ## Languages and Tools 
   
