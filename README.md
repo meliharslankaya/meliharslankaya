@@ -44,7 +44,7 @@
   <img align="left" alt="HTML" width="32px" src="Assets/nodejs.png" />
 </a>
 <a href="#">
-  <img align="left" alt="CSS" width="32px" src="Assets/react.png" />
+  <img align="left" alt="CSS" width="32px" src="Assets/angular.png" />
 </a>
 <a href="#">
   <img align="left" alt="Javascript" width="32px" src="Assets/mongo.png" />
