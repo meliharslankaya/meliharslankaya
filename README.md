@@ -3,7 +3,9 @@
   </h1>
   
   
-### 👋 Hello! I'm an AI developer specializing in artificial intelligence. I have expertise in areas such as deep learning, computer vision, image processing, model development, and deployment. I'm proficient in using technologies and libraries such as Python, TensorFlow, OpenCV, PyTorch, Flask, PostgreSQL, and Docker to develop various AI projects. Additionally, I'm actively improving my skills in web development, learning HTML, CSS, and JavaScript to create web applications. I showcase my knowledge and experience in these fields through projects on my profile. I'm always excited to collaborate on exciting projects and to continue learning new things. Feel free to check out my profile to see my work and experiences!
+### 👋 Hello! I'm an AI developer. I have expertise in areas such as deep learning, computer vision, image processing. Additionally, I'm actively improving my skills in data analysis and web development. 
+
+### I showcase my knowledge and experience in these fields through projects on my profile. I'm always excited to collaborate on exciting projects and to continue learning new things. Feel free to check out my profile to see my work and experiences!
 
   
 ## Links 🔗
