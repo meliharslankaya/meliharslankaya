@@ -32,7 +32,7 @@
   <img align="left" alt="Javascript" width="32px" src="Assets/js.png" />
 </a>
 <a href="#">
-  <img align="left" alt="React" width="34px" src="Assets/pyhsics.png" />
+  <img align="left" alt="React" width="34px" src="Assets/physics.png" />
 </a>
 <a href="#">
   <img align="left" alt="Python" width="32px" src="Assets/python.png" />
