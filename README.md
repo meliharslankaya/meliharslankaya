@@ -13,14 +13,14 @@
 <a href="https://www.instagram.com/meliharslankaya/">
   <img align="left" alt="Melih's Instagram" width="32px" src="Assets/instagram.png" />
   </a>
-<a href="https://twitter.com/">
-  <img align="left" alt="Melih Arslankaya | Twitter" width="32px" src="Assets/twitter.png" />
-</a>
 <a href="https://www.linkedin.com/in/melih-arslankaya/">
   <img align="left" alt="Melih's LinkedIN" width="32px" src="Assets/linkedin.png" />
+</a>
+<a href="https://github.com/meliharslankaya/">
+  <img align="left" alt="Melih Arslankaya | GitHub" width="32px" src="Assets/github-logo.png" />
 </a> <br><br>
 
-## Languages and Tools 
+## Technologies and Tools 
  
 <a href="#">
   <img align="left" alt="HTML" width="32px" src="Assets/html.png" />
@@ -32,20 +32,8 @@
   <img align="left" alt="Javascript" width="32px" src="Assets/js.png" />
 </a>
 <a href="#">
-  <img align="left" alt="Bootstrap" width="34px" src="Assets/bootstrap.png" />
+  <img align="left" alt="React" width="34px" src="Assets/pyhsics.png" />
 </a>
 <a href="#">
   <img align="left" alt="Python" width="32px" src="Assets/python.png" />
 <br> <br>
-  
-## Learnings
-  
-<a href="#">
-  <img align="left" alt="HTML" width="32px" src="Assets/nodejs.png" />
-</a>
-<a href="#">
-  <img align="left" alt="CSS" width="32px" src="Assets/angular.png" />
-</a>
-<a href="#">
-  <img align="left" alt="Javascript" width="32px" src="Assets/mongo.png" />
-</a>
