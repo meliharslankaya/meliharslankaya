@@ -15,10 +15,7 @@
   </a>
 <a href="https://www.linkedin.com/in/melih-arslankaya/">
   <img align="left" alt="Melih's LinkedIN" width="32px" src="Assets/linkedin.png" />
-</a>
-<a href="https://github.com/meliharslankaya/">
-  <img align="left" alt="Melih Arslankaya | GitHub" width="32px" src="Assets/github-logo.png" />
-</a> <br><br>
+</a><br><br>
 
 ## Technologies and Tools 
  
