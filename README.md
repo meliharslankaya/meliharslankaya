@@ -38,17 +38,6 @@ Experienced in building production-focused solutions that combine machine learni
 
 </div>
 
-<br/>
-
-<div align="left">
-
-<img src="https://img.shields.io/badge/SAP%20HANA-111111?style=for-the-badge&logo=sap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cursor-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Claude-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Nixtla-111111?style=for-the-badge"/>
-
-</div>
-
 ---
 
 ## Focus Areas
