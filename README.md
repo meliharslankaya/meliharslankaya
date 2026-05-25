@@ -32,41 +32,22 @@ Experienced in building production-focused solutions that combine machine learni
 
 ## Tech Stack
 
-<p align="left">
+<div align="left">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32"/>
-<img width="10"/>
+<img src="https://skillicons.dev/icons?i=python,flask,postgres,docker,react,nextjs,ts,aws,azure,vscode" height="42"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="32"/>
-<img width="10"/>
+</div>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32"/>
-<img width="10"/>
+<br/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32"/>
-<img width="10"/>
+<div align="left">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32"/>
-<img width="10"/>
+<img src="https://img.shields.io/badge/SAP%20HANA-111111?style=for-the-badge&logo=sap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cursor-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Claude-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nixtla-111111?style=for-the-badge"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32"/>
-<img width="10"/>
-
-<img src="https://cdn.simpleicons.org/sap/0FAAFF" height="32"/>
-<img width="10"/>
-
-<img src="https://cdn.simpleicons.org/amazonaws/white" height="32"/>
-<img width="10"/>
-
-<img src="https://cdn.simpleicons.org/microsoftazure/0078D4" height="32"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32"/>
-
-</p>
+</div>
 
 ---
 
