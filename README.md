@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="Assets/melih.png" width="900"/>
@@ -8,11 +9,11 @@ Building AI-powered systems focused on computer vision, OCR, forecasting, analyt
 
 <p>
   <a href="https://www.linkedin.com/in/melih-arslankaya/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   
   <a href="https://www.instagram.com/meliharslankaya/">
-    <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+    <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
@@ -39,37 +40,22 @@ I enjoy building production-focused AI solutions that integrate data pipelines, 
 
 ## Tech Stack
 
-### AI & Machine Learning
-
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
-</p>
 
-### AI Tools & Analytics
+<img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-111111?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/SAP%20HANA-111111?style=flat-square&logo=sap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cursor-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/Claude-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/Nixtla-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/AWS-111111?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-111111?style=flat-square&logo=microsoftazure&logoColor=white"/>
 
-<p>
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Nixtla-6C63FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SAP%20HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
-</p>
-
-### Backend & Data
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,docker" />
-</p>
-
-### Web Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css" />
-</p>
-
-### Cloud & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,git,vscode" />
 </p>
 
 ---
@@ -81,4 +67,6 @@ I enjoy building production-focused AI solutions that integrate data pipelines, 
 - Intelligent Retail Technologies  
 - Forecasting & Recommendation Systems  
 - Scalable AI Infrastructure  
-- Data-Driven Applications
+- Data-Driven Applications  
+
+```
